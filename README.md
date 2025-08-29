@@ -33,9 +33,3 @@ Each player has their own first-person view and controls, and can influence the 
 ## 👥 Multiplayer
 
 This is a **local multiplayer** game. Both players play on the **same machine**, each with their own half of the screen, controls, and camera.
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/coop-maze-game.git
